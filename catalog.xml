@@ -133,7 +133,7 @@
   <!--schematron-->
   <nextCatalog catalog="www.web3d.org/catalog.xml"/>
 
-  <!--fxsl-->
-  <nextCatalog catalog="../xslt-devenv/xsl/fxsl-xsl2/catalog.xml"/>
+  <!--yy-->
+  <nextCatalog catalog="yy/catalog.xml"/>
 
 </catalog>
